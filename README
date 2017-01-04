@@ -1,0 +1,5 @@
+Aftercrypt is a very small command line tool for file encryption and decryption.
+It uses scrypt for key derivation and aes-256 for encryption.
+Aftercrypt can en or decrypt multiple files concurrently.
+
+Usage: aftercrypt [-d] [-s <secret>] <files>
